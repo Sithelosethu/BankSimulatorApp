@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ndebe_91p\\source\\repos\\BankAccountSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02D182-9E46-47C7-B711-F8E0BC1DEFBD}|BankAccountSimulator\\BankAccountSimulator.csproj|c:\\users\\ndebe_91p\\source\\repos\\bankaccountsimulator\\bankaccountsimulator\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02D182-9E46-47C7-B711-F8E0BC1DEFBD}|BankAccountSimulator\\BankAccountSimulator.csproj|solutionrelative:bankaccountsimulator\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02D182-9E46-47C7-B711-F8E0BC1DEFBD}|BankAccountSimulator\\BankAccountSimulator.csproj|c:\\users\\ndebe_91p\\source\\repos\\bankaccountsimulator\\bankaccountsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02D182-9E46-47C7-B711-F8E0BC1DEFBD}|BankAccountSimulator\\BankAccountSimulator.csproj|solutionrelative:bankaccountsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ndebe_91p\\source\\repos\\BankAccountSimulator\\BankAccountSimulator\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountSimulator\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\ndebe_91p\\source\\repos\\BankAccountSimulator\\BankAccountSimulator\\BankAccount.cs",
+              "RelativeToolTip": "BankAccountSimulator\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:50:31.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ndebe_91p\\source\\repos\\BankAccountSimulator\\BankAccountSimulator\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccountSimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\ndebe_91p\\source\\repos\\BankAccountSimulator\\BankAccountSimulator\\Program.cs",
+              "RelativeToolTip": "BankAccountSimulator\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:25:59.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
